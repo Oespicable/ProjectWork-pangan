@@ -1,0 +1,15 @@
+
+*.pyc
+*.png
+*.mat
+*.npy
+*.h5
+*.m
+model/gf/checkpoint
+*.index
+*.data-00000-of-00001
+*.meta
+*.whl
+*.pkl
+*.TIF
+model/qk/checkpoint
